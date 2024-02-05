@@ -14,9 +14,19 @@
 // }
 // funcao(1,2,3,4,5,6,7)
 
-function funcao(a,b = 2, c = 4){
-    //b = b || 0
+// function funcao(a,b = 2, c = 4){
+//     //b = b || 0
 
-    console.log(a + b + c)
+//     console.log(a + b + c)
+// }
+// funcao(2, 10)
+
+// function funcao({nome, sobrenome, idade}) {
+//     console.log(nome, sobrenome, idade);
+// }
+// funcao({nome:'nara', sobrenome:'costa', idade: 20})
+
+const conta = (args) => {
+    console.log.og(args)
 }
-funcao(2, 10)
+conta('+', 1,20,30,40,20,40)
