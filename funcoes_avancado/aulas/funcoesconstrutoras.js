@@ -1,3 +1,4 @@
+
 //funções construtoras -> objetos
 //sempre cria com letra maiscula
 //new -> cria um objeto vazio, faz o this apontar a esse objeto vazio e ja nos retorna
